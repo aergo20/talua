@@ -1,0 +1,2 @@
+local talua = { }
+return talua
